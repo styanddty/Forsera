@@ -11,3 +11,6 @@ print（r）
 
 python打包exe
 [Simple 3 steps to convert your python to exe format](https://zhuanlan.zhihu.com/p/38659588)
+
+sleep函数用法
+[sleep method](https://www.runoob.com/python/att-time-sleep.html)
