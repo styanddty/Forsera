@@ -8,3 +8,6 @@ import random
 r = random.randint（0, 10）
 print（r）
 ```
+
+python打包exe
+[Simple 3 steps to convert your python to exe format](https://zhuanlan.zhihu.com/p/38659588)
